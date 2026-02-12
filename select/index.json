@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "週末のマーチ",
+  "base_artist": "Ryo Umekawa",
+  "createdAt": "2026-02-12T21:36:53.020815Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "週末のマーチ",
+      "artist": "Ryo Umekawa",
+      "has_synced": false,
+      "path": "select/pl_01_週末のマーチ_Ryo_Umekawa.txt"
+    }
+  ]
+}
